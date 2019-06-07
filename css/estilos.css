@@ -42,5 +42,13 @@ body
 
 #post{
   padding: 5px 10px 10px 10px;
+  border: 1px solid black;
   background-color: rgb(240, 240, 240);
+}
+
+#footer{
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 4px;
 }
